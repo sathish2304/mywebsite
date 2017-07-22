@@ -1,0 +1,8 @@
+---
+# vars file for mywebsite
+---
+title: "myweb"
+serveradmin: sathish2304@gmail.com
+document_root: /var/www/html/myweb
+error_log: "/var/log/myweb.log"
+
